@@ -3,8 +3,7 @@
 apt install feh lolcat pv sox libsox-fmt-all
 cp ./funlinux /bin
 chmod +x /bin/funlinux
-cat ./alias >> /$HOME/.bashrc
-cat ./alias >> /$HOME/.zshrc
+
 mkdir /usr/local/share/funlinux
 cp ./donkey /usr/local/share/funlinux
 cp ./badtime.mp3 /usr/local/share/funlinux
