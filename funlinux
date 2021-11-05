@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ $1 = "-w" ]]; then
-cd /home/amorin/Imágenes/waifu
+cd /usr/local/share/funlinux/waifu
 Image = ` ls -lA | awk -F':[0-9]* ' '/:/{print $2}' | shuf -n 1`
 feh $Image
 fi
@@ -54,7 +54,7 @@ fi
 if [[ $1 = "-u" ]]; then
 echo ""
 echo -e "\e[97mDo you wanna have a bad time? \e[91m\e[39m" | pv -qL 18 & X=$!
-play /home/amorin/.badtime.mp3 2>/dev/null & Y=$!
+play /usr/local/share/funlinux/badtime.mp3 2>/dev/null & Y=$!
 wait $X
 wait $Y
 echo ""
@@ -74,6 +74,6 @@ fi
 
 if [[ $1 = "-d" ]]; then
 echo ""
-cat ./donkey
+cat /usr/local/share/funlinux/donkey
 fi
 
