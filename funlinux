@@ -2,7 +2,7 @@
 
 if [[ $1 = "-w" ]]; then
 cd /usr/local/share/funlinux/waifu
-Image = ` ls -lA | awk -F':[0-9]* ' '/:/{print $2}' | shuf -n 1`
+Image=`ls -lA | awk -F':[0-9]* ' '/:/{print $2}' | shuf -n 1`
 feh $Image
 fi
 
