@@ -24,6 +24,7 @@ cat alias >> ~/.zshrc
 ```
 (You can do both if you aren not sure)
 And it's redy to go!
+![Annoying_Dog](https://user-images.githubusercontent.com/83926750/140624914-6aa6bc6e-e47b-44e2-ba4b-0435bf8a3a6b.gif =200x250)
 
 ## Usage
 ### Donkey
