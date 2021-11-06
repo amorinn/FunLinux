@@ -3,7 +3,7 @@
 
 
 
-# LinuxFun
+# FunLinux
 Some really stupid and funny commands for debian-based linux
 ## Installation
 Clone this repository:
@@ -58,4 +58,5 @@ I would be very dissapointed if you use this command, ```hentai``` or ```funlinu
 God is Watching you.\
 (There is no image too)
 
-![Tumblr_nvujj3gQTf1r9xrggo2_250](https://user-images.githubusercontent.com/83926750/140592344-11b5c93d-e7cd-4695-addb-9b63ae92aa1d.gif)
+![de95def3eb6c118b024049be5beed46c](https://user-images.githubusercontent.com/83926750/140592430-aec5c28e-77da-4bef-bde4-fae7687bffb1.gif)
+
